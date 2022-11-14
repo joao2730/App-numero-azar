@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App numero al azar</string>
+    <string name="text_view">¿Cual es el numero que se mostro?</string>
+    <string name="btn_calcular">Generar</string>
+</resources>
